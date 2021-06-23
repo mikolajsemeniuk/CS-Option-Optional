@@ -1,0 +1,17 @@
+/Users/mikolajsemeniuk/Projects/C#/optional/bin/Debug/net5.0/optional.deps.json
+/Users/mikolajsemeniuk/Projects/C#/optional/bin/Debug/net5.0/optional.runtimeconfig.json
+/Users/mikolajsemeniuk/Projects/C#/optional/bin/Debug/net5.0/optional.runtimeconfig.dev.json
+/Users/mikolajsemeniuk/Projects/C#/optional/bin/Debug/net5.0/optional.dll
+/Users/mikolajsemeniuk/Projects/C#/optional/bin/Debug/net5.0/ref/optional.dll
+/Users/mikolajsemeniuk/Projects/C#/optional/bin/Debug/net5.0/optional.pdb
+/Users/mikolajsemeniuk/Projects/C#/optional/bin/Debug/net5.0/LanguageExt.Core.dll
+/Users/mikolajsemeniuk/Projects/C#/optional/obj/Debug/net5.0/optional.csprojAssemblyReference.cache
+/Users/mikolajsemeniuk/Projects/C#/optional/obj/Debug/net5.0/optional.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikolajsemeniuk/Projects/C#/optional/obj/Debug/net5.0/optional.AssemblyInfoInputs.cache
+/Users/mikolajsemeniuk/Projects/C#/optional/obj/Debug/net5.0/optional.AssemblyInfo.cs
+/Users/mikolajsemeniuk/Projects/C#/optional/obj/Debug/net5.0/optional.csproj.CoreCompileInputs.cache
+/Users/mikolajsemeniuk/Projects/C#/optional/obj/Debug/net5.0/optional.csproj.CopyComplete
+/Users/mikolajsemeniuk/Projects/C#/optional/obj/Debug/net5.0/optional.dll
+/Users/mikolajsemeniuk/Projects/C#/optional/obj/Debug/net5.0/ref/optional.dll
+/Users/mikolajsemeniuk/Projects/C#/optional/obj/Debug/net5.0/optional.pdb
+/Users/mikolajsemeniuk/Projects/C#/optional/obj/Debug/net5.0/optional.genruntimeconfig.cache
